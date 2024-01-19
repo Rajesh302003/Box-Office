@@ -11,19 +11,6 @@
 
 }
 
-
-@keyframes neon {
-    0%, 39%, 41%, 59%, 61%, 100% {
-        text-shadow: 
-        white 0 0 12px,
-        #ff3aad 0 0 24px,
-        #ff3aad 0 0 36px;
-    }
-    30%, 50% {
-        text-shadow: none;
-    }
-}
-
 .first-div {
     background-image: url();
     height: 50vh;
